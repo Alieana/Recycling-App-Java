@@ -1,1 +1,1 @@
-# Recycling-App
+# Simple recycling app
